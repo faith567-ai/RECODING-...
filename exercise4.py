@@ -11,6 +11,3 @@ def count_even(numbers):
 print(count_even([1, 2, 3, 4, 6]))
 print(count_even([1, 3, 5, 7]))
                        
-    
-    
-
